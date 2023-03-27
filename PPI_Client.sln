@@ -5,8 +5,6 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPI_Client", "PPI_Client\PPI_Client.csproj", "{8728CC5B-1CED-4B01-88F2-5FFF74949FEA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPI_Server", "..\PPI_Server\PPI_Server\PPI_Server.csproj", "{E19E13F2-9F1F-4B2B-9BB4-CB3DC3482411}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{8728CC5B-1CED-4B01-88F2-5FFF74949FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8728CC5B-1CED-4B01-88F2-5FFF74949FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8728CC5B-1CED-4B01-88F2-5FFF74949FEA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E19E13F2-9F1F-4B2B-9BB4-CB3DC3482411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E19E13F2-9F1F-4B2B-9BB4-CB3DC3482411}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E19E13F2-9F1F-4B2B-9BB4-CB3DC3482411}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E19E13F2-9F1F-4B2B-9BB4-CB3DC3482411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
